@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ih-lvcgq-b120.github.io/knowledge-base/sitemap.xml
